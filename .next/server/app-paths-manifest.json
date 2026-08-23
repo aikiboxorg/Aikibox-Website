@@ -1,0 +1,6 @@
+{
+  "/vita/page": "app/vita/page.js",
+  "/terms/page": "app/terms/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/page": "app/page.js"
+}
