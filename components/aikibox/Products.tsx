@@ -56,8 +56,8 @@ export default function AikiboxProducts() {
                   Vita
                 </h3>
                 <p className="mt-3 max-w-[52ch] text-[15px] text-[#F6EFE1]/70">
-                  A social platform that gets people into real Circles — a
-                  trail run, a supper club, a board game night — instead of
+                  A social platform that gets people into real Circles, a
+                  trail run, a supper club, a board game night instead of
                   another profile grid.
                 </p>
               </div>

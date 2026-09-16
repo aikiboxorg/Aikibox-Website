@@ -16,15 +16,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/vita/page.js"
     ],
-    "/privacy/page": [
+    "/martech/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/privacy/page.js"
-    ],
-    "/terms/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/terms/page.js"
+      "static/chunks/app/martech/page.js"
     ]
   }
 }

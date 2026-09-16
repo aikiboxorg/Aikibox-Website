@@ -24,8 +24,8 @@ export default function Hero() {
             never <em className="font-medium not-italic italic text-marigold-bright">the point.</em>
           </h1>
           <p className="mt-[22px] max-w-[46ch] text-lg leading-[1.65] text-paper/[0.78]">
-            Vita gets you into real rooms — a Tuesday trail run, a supper club, a
-            table of strangers playing board games badly — with people who showed
+            Vita gets you into real rooms; a Tuesday trail run, a supper club, a
+            table of strangers playing board games badly with people who showed
             up on purpose, not by algorithm.
           </p>
           <div className="mt-[34px] flex flex-wrap gap-[14px]">

@@ -4,19 +4,19 @@ const steps = [
   {
     num: "01",
     title: "Say what lights you up",
-    body: "A few honest answers — not a personality quiz. What you'd actually want to spend a Tuesday night doing.",
+    body: "A few honest answers, not a personality quiz. What you'd actually want to spend a Tuesday night doing.",
     chips: ["pottery", "trail running", "chess"],
   },
   {
     num: "02",
     title: "Get placed in a Circle",
-    body: "Six to ten people, matched on interest and availability — not a stack of individual matches to sort through.",
+    body: "Six to ten people, matched on interest and availability; not a stack of individual matches to sort through.",
     chips: ["6–10 people", "near you"],
   },
   {
     num: "03",
     title: "Show up",
-    body: "Your first meet is on Vita, always. If it's not your people, you're moved to a different Circle — no awkward exit required.",
+    body: "Your first meet is on Vita, always. If it's not your people, you're moved to a different Circle; no awkward exit required.",
     chips: ["first meet's on us"],
   },
 ];

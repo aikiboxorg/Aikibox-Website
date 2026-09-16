@@ -29,7 +29,7 @@ export default function AikiboxHero() {
           </h1>
           <p className="mt-[22px] max-w-[48ch] text-lg leading-[1.65] text-aiki-ink/70">
             AIKIBOX plans, installs, and supports the network and IT
-            infrastructure behind clinics, offices, and job sites — on-site,
+            infrastructure behind clinics, offices, and job sites including on-site,
             on schedule, and built to hold up after we leave.
           </p>
           <div className="mt-[34px] flex flex-wrap gap-[14px]">
@@ -55,7 +55,7 @@ export default function AikiboxHero() {
               home base, on-site nationwide
             </div>
             <div className="text-[13px] text-aiki-ink/55">
-              <b className="mb-0.5 block font-aiki-display text-[22px] font-semibold text-aiki-ink">M.S. IT</b>
+              <b className="mb-0.5 block font-aiki-display text-[22px] font-semibold text-aiki-ink">Expert</b>
               engineering-led deployments
             </div>
           </div>
