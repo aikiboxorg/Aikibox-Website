@@ -1,5 +1,5 @@
 {
-  "/martech/page": "app/martech/page.js",
+  "/vita/page": "app/vita/page.js",
   "/page": "app/page.js",
-  "/vita/page": "app/vita/page.js"
+  "/privacy/page": "app/privacy/page.js"
 }

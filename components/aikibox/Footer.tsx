@@ -5,7 +5,7 @@ type FooterProps = {
 
 export default function AikiboxFooter({
   headline = "Have a product question, or a project to talk through?",
-  sub = "Reach out and we'll point you to the right team, Martech or Vita.",
+  sub = "Reach out and we'll point you to the right team, AikiCore or Vita.",
 }: FooterProps) {
   return (
     <>
@@ -34,7 +34,7 @@ export default function AikiboxFooter({
           <ul className="flex gap-[22px]">
             <li>
               <a href="/martech" className="text-[13px] text-aiki-paper/50 transition hover:text-aiki-paper">
-                Martech
+                AikiCore
               </a>
             </li>
             <li>

@@ -1,8 +1,8 @@
 // File: /Users/taofeekbadmus/Documents/Aikibox-Website/app/martech/page.tsx
-import * as entry from '../../../../app/martech/page.js'
+import * as entry from '../../../../app/aikicore/page.jsx'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../app/martech/page.js')
+type TEntry = typeof import('../../../../app/aikicore/page.jsx')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{

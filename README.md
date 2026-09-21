@@ -5,7 +5,7 @@ products under one domain.
 
 - `/` — AIKIBOX overview: what the company is, and a "Products" section
   featuring both products
-- `/martech` — Martech: on-site network cabling, IT
+- `/martech` — AikiCore: on-site network cabling, IT
   deployment, and systems integration
 - `/vita` — Vita: a social platform for genuine connection
 
@@ -26,15 +26,15 @@ Vita) back to the parent overview.
 app/
   layout.tsx              root layout, loads all fonts for both brands
   page.tsx                 AIKIBOX overview (hub diagram, both products)
-  martech/page.tsx  Martech product page
+  martech/page.tsx  AikiCore product page
   vita/page.tsx            Vita product page
   globals.css              tailwind base + selection/focus/reduced-motion
 components/
   aikibox/
     Nav.tsx        shared AIKIBOX nav, takes an optional `product` crumb
     HomeHero.tsx   parent-company hero (hub + two-product diagram)
-    Hero.tsx       Martech hero (network-diagram signature)
-    Services.tsx   Martech capability grid
+    Hero.tsx       AikiCore hero (network-diagram signature)
+    Services.tsx   AikiCore capability grid
     Products.tsx   two-product grid on the home page
     Footer.tsx     contact + site footer, configurable headline/sub
   Nav.tsx          Vita nav (nametag logo + link back to AIKIBOX)

@@ -24,7 +24,7 @@ export default function AikiboxNav({ product }: { product?: string }) {
           </li>
           <li>
             <a href="/martech" className="text-[14.5px] text-aiki-ink/70 transition hover:text-aiki-ink">
-              Martech
+              AikiCore
             </a>
           </li>
           <li>
